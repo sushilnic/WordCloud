@@ -108,11 +108,11 @@ if uploaded_file:
     st.sidebar.markdown("---")
     st.sidebar.subheader("Subscribe to our Youtube Channel to learn Data Science in Urdu/Hindi")
     # add a youtube video
-    st.sidebar.video("https://youtu.be/omk5b1m2h38")
-    st.sidebar.markdown("---")
+   # st.sidebar.video("#")
+   # st.sidebar.markdown("---")
     # add author name and info
-    st.sidebar.markdown("Created by: [Dr. Muhammad Aammar Tufail](https://github.com/AammarTufail)")
-    st.sidebar.markdown("Contact: [Email](mailto:aammar@codanics.com)")
+    st.sidebar.markdown("Created by: [Sushil Agrawal](https://github.com/sushilnic)")
+    st.sidebar.markdown("Contact: [Email](mailto:sushil.kr.agrawal@gmail.com)")
 
 
     
