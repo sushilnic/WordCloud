@@ -106,7 +106,7 @@ if uploaded_file:
     
     # Word count table at the end
     st.sidebar.markdown("---")
-    st.sidebar.subheader("Subscribe to our Youtube Channel to learn Data Science in Urdu/Hindi")
+  #  st.sidebar.subheader("Subscribe to our Youtube Channel to learn Data Science in Urdu/Hindi")
     # add a youtube video
    # st.sidebar.video("#")
    # st.sidebar.markdown("---")
